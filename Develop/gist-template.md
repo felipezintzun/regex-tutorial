@@ -1,22 +1,27 @@
 # Regex Tutorial
 
-This gist explains the use of this regular expression and how it can be used to search from a url.  (/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/)
+In this tutorial I will be explaining the regex (regular expression) for search an email. 
+`(/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/)`
 
 ## Summary
 
 A regex, which is short for regular expression, is a sequence of characters that defines a specific search pattern. When included in code or search algorithms, regular expressions can be used to find certain patterns of characters within a string, or to find and replace a character or sequence of characters within a string. They are also frequently used to validate input.
 
+The regex code `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/` can be explained from left to right, one character at a time. 
+
 ## Table of Contents
 
+- [Regex](##regex)
 - [Anchors](#anchors)
 - [Quantifiers](#quantifiers)
 - [Character Classes](#character-classes)
 - [Grouping and Capturing](#grouping-and-capturing)
-- [Bracket Expressions](#bracket-expressions)
 
 
 ## Regex 
-/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
+`/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
+
+## Regex Components
 
 ### Anchors
 Anchors are part of the regex tokens that do not match any specific character, but identify the engine's current position. For example, the beginning or the end of the string. 

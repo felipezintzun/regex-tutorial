@@ -2,7 +2,8 @@
 [GitHub Repository](https://github.com/felipezintzun/regex-tutorial)
 
 ## Description
-A tutorial that explains the use of this regular expression and how it can be used to search from a url. /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
+A tutorial that explains the use of this regular expression and how it can be used to search for an email. 
+`/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
 
 ## User Story
   
