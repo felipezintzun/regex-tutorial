@@ -1,8 +1,8 @@
-# employee-tracker
-[GitHub Repository](https://www.youtube.com/watch?v=MIj06z79w-E)
+# Regex Tutorial
+[GitHub Repository](https://github.com/felipezintzun/regex-tutorial)
 
 ## Description
-A tutorial that explains how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does.
+A tutorial that explains the use of this regular expression and how it can be used to search from a url. /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
 
 ## User Story
   
@@ -26,29 +26,10 @@ WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
 ```
 
-## Table of Contents
-- [Description](#description)
-- [User Story](#user-story)
-- [Acceptance Criteria](#acceptance-criteria)
-- [Table of Contents](#table-of-contents)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [Questions](#questions)
-
-## Installation  
-None
-
-## Usage
-None
-
-## Testing
-None
-
 ## Contributing
-[regexr.com](https://regexr.com/)
+[regexr.com](https://regexr.com/)<br>
 [The Coding Train](https://www.youtube.com/watch?v=7DG3kCDx53c)
 
 ## Questions
-[GitHub](https://github.com/felipezintzun/regex-tutorial)
+- Github: [https://github.com/felipezintzun/regex-tutorial]<br>
+- Contact Me: [felipezintzun@gmail.com]
